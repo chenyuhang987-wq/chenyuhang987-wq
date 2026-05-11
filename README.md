@@ -21,5 +21,5 @@
 * **Concept**: Mathematical Modeling, Behavioral Economics in UX
 
 ### 📫 How to reach me
-* Email: [你的邮箱地址]
-* LinkedIn / Personal Website: [如果有的话，放上链接]
+* Email: chenyuhang987@icloud.com
+* Phone:+86 13146900226
