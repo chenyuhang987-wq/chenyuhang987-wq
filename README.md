@@ -2,6 +2,8 @@
 
 > 🚀 **Passionate about building AI Agents that reshape education & problem-solving.**
 
+https://terminal-detector.base44.app ###Terminal Detective
+
 我是一名致力于探索“AI+教育”与智能体开发的高中生/开发者。我坚信大语言模型（LLM）不仅是问答工具，更是能够实现极致个性化与自适应激励的**逻辑架构师**。
 
 ### 🛠️ Core Focus & Projects
