@@ -4,7 +4,8 @@
 
 https://github.com/chenyuhang987-wq/Beat-Runner.git
 
-我是一名致力于探索“AI+教育”与智能体开发的高中生/开发者。我坚信大语言模型（LLM）不仅是问答工具，更是能够实现极致个性化与自适应激励的**逻辑架构师**。
+我是一名致力于探索“AI+教育”与智能体开发的高中生/开发者。
+我坚信大语言模型（LLM）不仅是问答工具，更是能够实现极致个性化与自适应激励的**逻辑架构师**。
 
 ### 🛠️ Core Focus & Projects
 目前，我专注于 AI Agent 架构（感知-规划-行动-反馈）的落地。以下是我的核心开源项目：
@@ -23,7 +24,7 @@ https://github.com/chenyuhang987-wq/Beat-Runner.git
     * *亮点*：玩家通过设计 ReAct 行为逻辑驱动 AI 侦探，体验多智能体协同与容错机制。
 
 ### 💻 Tech Stack
-*(这里可以利用 Shields.io 放入好看的技术栈图标，简单列举即可)*
+
 * **AI/LLM**: Prompt Engineering, Agentic Loop Design
 * **Front-End**: HTML5, CSS3 (Advanced Animations), JavaScript
 * **Concept**: Mathematical Modeling, Behavioral Economics in UX
