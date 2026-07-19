@@ -9,9 +9,9 @@ https://github.com/chenyuhang987-wq/Beat-Runner.git
 ### 🛠️ Core Focus & Projects
 目前，我专注于 AI Agent 架构（感知-规划-行动-反馈）的落地。以下是我的核心开源项目：
 
-* 🤔 **[BeatRunner]** https://github.com/chenyuhang987-wq/Beat-Runner.git
+* 🧭 **[Beat-Runner](https://github.com/chenyuhang987-wq/Beat-Runner.git)**
   
-* 🧭 **[Pathfinder-AI-Learning](https://github.com/chenyuhang987-wq/Pathfinder-AI-Learning)**: 
+* 🤔 **[Pathfinder-AI-Learning](https://github.com/chenyuhang987-wq/Pathfinder-AI-Learning)**: 
     * *是什么*：一款基于 LLM 的适应性教育激励 AI Agent。
     * *亮点*：引入数学建模（记忆衰退算法）与动态知识图谱，将静态教材转化为实时响应的动态交互流。
 * 🕵️‍♂️ **[Terminal_Detective](你的另一个仓库链接)**:
