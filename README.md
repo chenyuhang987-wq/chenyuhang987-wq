@@ -10,6 +10,10 @@ https://github.com/chenyuhang987-wq/Beat-Runner.git
 目前，我专注于 AI Agent 架构（感知-规划-行动-反馈）的落地。以下是我的核心开源项目：
 
 * 🧭 **[Beat-Runner](https://github.com/chenyuhang987-wq/Beat-Runner.git)**
+  * *是什么*：一款以音乐节拍为核心的原创伪 3D 网页跑酷游戏，玩家操控能量球在三条霓虹音轨中躲避障碍、收集音符并完成关卡。
+  * *亮点*：三首歌曲分别对应三个关卡，障碍、灯光和技能效果会跟随 BPM 节拍同步；游戏还加入了故事序章、四种节奏技能、三选一天赋、Combo 与评级解锁系统，并同时支持电脑和手机操作。
+  * *What it is*: An original pseudo-3D web rhythm runner in which players control an energy ball, dodge obstacles, collect notes, and complete three neon music tracks.
+  * *Highlights*: Each level features a different song, with obstacles, lighting, and skill effects synchronized to the BPM. The game also includes a story prologue, four rhythm-based abilities, a three-choice talent system, Combo and ranking mechanics, level unlocking, and support for both desktop and mobile devices.
   
 * 🤔 **[Pathfinder-AI-Learning](https://github.com/chenyuhang987-wq/Pathfinder-AI-Learning)**: 
     * *是什么*：一款基于 LLM 的适应性教育激励 AI Agent。
