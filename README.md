@@ -2,13 +2,15 @@
 
 > 🚀 **Passionate about building AI Agents that reshape education & problem-solving.**
 
-
+https://github.com/chenyuhang987-wq/Beat-Runner.git
 
 我是一名致力于探索“AI+教育”与智能体开发的高中生/开发者。我坚信大语言模型（LLM）不仅是问答工具，更是能够实现极致个性化与自适应激励的**逻辑架构师**。
 
 ### 🛠️ Core Focus & Projects
 目前，我专注于 AI Agent 架构（感知-规划-行动-反馈）的落地。以下是我的核心开源项目：
 
+* 🤔 **[BeatRunner]** https://github.com/chenyuhang987-wq/Beat-Runner.git
+  
 * 🧭 **[Pathfinder-AI-Learning](https://github.com/chenyuhang987-wq/Pathfinder-AI-Learning)**: 
     * *是什么*：一款基于 LLM 的适应性教育激励 AI Agent。
     * *亮点*：引入数学建模（记忆衰退算法）与动态知识图谱，将静态教材转化为实时响应的动态交互流。
